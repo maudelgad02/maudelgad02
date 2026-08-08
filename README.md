@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mauricio 👋
 
-<!--
-**maudelgad02/maudelgad02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.S. in Physics Engineering | Tecnológico de Monterrey**  
+German & EU Citizen | Open to R&D, Simulation Engineering, and Quantitative Analysis roles in Munich, Paris, and Europe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Core Expertise
+- **Physics & Modeling:** Computational Physics, Monte Carlo Simulations, Numerical Methods, Differential Equations.
+- **Languages & Tools:** Python (NumPy, SciPy, Matplotlib, Pandas), C++, MATLAB, SQL, Git, Linux.
+- **Languages Spoken:** English (Fluent), German (Fluent), French (Intermediate/Fluent), Spanish (Native).
+
+---
+
+### 🚀 Featured Projects
+
+#### 📌 [Project Title 1]
+- **Tech Stack:** Python / C++
+- Brief description of the physical model, simulation, or data pipeline implemented.
+- [[View Repository](https://github.com/maudelgad02/nombre-de-tu-repo-1)]
+
+#### 📌 [Project Title 2]
+- **Tech Stack:** MATLAB / C++
+- Brief description of the numerical analysis, solver, or optimization algorithm.
+- [[View Repository](https://github.com/maudelgad02/nombre-de-tu-repo-2)]
+
+---
+
+📫 **Connect with me:**  
+- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
+- Email: tu-email@ejemplo.com
