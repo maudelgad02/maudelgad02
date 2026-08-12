@@ -18,10 +18,9 @@ German & EU Citizen | Open to R&D, Simulation Engineering, and Quantitative Anal
 - **Tech Stack:** MATLAB / Computational Physics
 - Numerical simulation of charged particle trajectories in a cyclotron using 4th-order Runge-Kutta (RK4) integration and Maxwell-Lorentz electrodynamics.
 
-#### 📌 [Project Title 2]
-- **Tech Stack:** MATLAB / C++
-- Brief description of the numerical analysis, solver, or optimization algorithm.
-- [[View Repository](https://github.com/maudelgad02/nombre-de-tu-repo-2)]
+#### 📌 [SEIRS Model & Outbreak Prediction](https://github.com/maudelgad02/seirs-epidemiological-simulation)
+- **Tech Stack:** Julia / Flux.jl / Stochastic Processes / Markov Chains
+- Stochastic SEIRS epidemiological simulation paired with deep neural networks to predict infection peak timing and magnitude for disease prevention strategy.
 
 ---
 
