@@ -14,10 +14,9 @@ German & EU Citizen | Open to R&D, Simulation Engineering, and Quantitative Anal
 
 ### 🚀 Featured Projects
 
-#### 📌 [Project Title 1]
-- **Tech Stack:** Python / C++
-- Brief description of the physical model, simulation, or data pipeline implemented.
-- [[View Repository](https://github.com/maudelgad02/nombre-de-tu-repo-1)]
+#### 📌 [Particle Accelerator Simulation](https://github.com/maudelgad02/Particle-Accelerator-Simulation)
+- **Tech Stack:** MATLAB / Computational Physics
+- Numerical simulation of charged particle trajectories in a cyclotron using 4th-order Runge-Kutta (RK4) integration and Maxwell-Lorentz electrodynamics.
 
 #### 📌 [Project Title 2]
 - **Tech Stack:** MATLAB / C++
@@ -27,5 +26,5 @@ German & EU Citizen | Open to R&D, Simulation Engineering, and Quantitative Anal
 ---
 
 📫 **Connect with me:**  
-- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- Email: tu-email@ejemplo.com
+- LinkedIn: www.linkedin.com/in/mauriciodelgadounger  
+- Email: mauriciodelgado2002@gmail.com
